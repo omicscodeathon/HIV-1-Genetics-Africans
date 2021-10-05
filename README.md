@@ -18,6 +18,10 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
 ## Objective
  + To investigate the prevalence of viral variants circulating in different Eastern  African countries  to better characterize the HIV-1 epidemic.
 
+## Prerequisites
++ Involves generation of sequences from NCBI virus repository from different East Africa countries of HIV-Pol region.
+ 
+ ``` conda install mafft ```
 
 
 
