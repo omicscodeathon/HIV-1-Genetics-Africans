@@ -9,4 +9,15 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
 + HIV-1 is a major health challenge in sub- Saharan countries and causes mortality and morbidity in many developing countries like Kenya as well as straining the healthcare system and the economy 
 
 
- +
+ ## Significance of study
+ + This   study is aimed at identifying the various HIV-1 subtypes circulating in East Africa region and to provide information on the genetic diversity of HIV in this region. This  findings will also provide useful insights to which is critical for assessment of the effectiveness of treatment, intervention strategies and informing public health policy.
+
+## Aim
++ The proposed research is aimed at in silico  screening of HIV-1  pol protein pol(gene) sequences from NCBI virus repository from Eastern African countries and genetic characterization using computational approaches.
+
+## Objective
+ + To investigate the prevalence of viral variants circulating in different Eastern  African countries  to better characterize the HIV-1 epidemic.
+
+
+
+
