@@ -22,6 +22,12 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
 + Involves generation of sequences from NCBI virus repository from different East Africa countries of HIV-Pol region.
  
  ``` conda install mafft ```
+ 
+ ``` conda install iqtree ```
+ 
+ ``` conda install figtree ```
+ 
+ ``` conda install aliview ```
 
 
 
