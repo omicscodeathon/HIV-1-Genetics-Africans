@@ -1,2 +1,12 @@
 # HIV-1-Genetics-Africans
 Genetic Diversity of Strains of HIV-1 circulating in African Populations
+
+## Background
+ + HIV is categorized into HIV type 1 (HIV-1) and HIV type 2 (HIV-2) on the basis of differences in the viral antigens and genetic characteristics(Seitz, 2016)HIV-1 is more virulent and the major cause for the global AIDS pandemic (MA et al., 2017)while HIV-2 is less virulent and less common. 
++ The existence of genetic variation in HIV-1 is caused by error-prone reverse transcriptase enzyme, recombination events during replication of the virus, HIV-1 rapid turnover in the body and immune system selective pressures(Désiré et al., 2018) 
++ HIV-1 genetic variability is the major obstacle in the treatment of HIV and development of effective drugs. This variability occurs rapidly with some variants believed to be more virulent and resistant to different antiretroviral drugs 
++ Precisely, patients monitoring, treatment, diagnostic testing, epidemiologic surveillance and drug development are influenced by HIV-1 genetic diversity .
++ HIV-1 is a major health challenge in sub- Saharan countries and causes mortality and morbidity in many developing countries like Kenya as well as straining the healthcare system and the economy 
+
+
+ +
