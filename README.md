@@ -16,7 +16,7 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
 + The proposed research is aimed at in silico  screening of HIV-1  pol protein pol(gene) sequences from NCBI virus repository from Eastern African countries and genetic characterization using computational approaches.
 
 ## Objective
- + To investigate the prevalence of viral variants circulating in different Eastern  African countries  to better characterize the HIV-1 epidemic.
+ + To investigate the prevalence of viral variants circulating in different Eastern  African countries  to better characterize the HIV-1 epidemic and epidemiology.
 
 ## Prerequisites
 + Involves generation of sequences from NCBI virus repository from different East Africa countries of HIV-Pol region.
