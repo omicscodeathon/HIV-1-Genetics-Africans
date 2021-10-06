@@ -35,9 +35,9 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  ## Contributors
  [Hesborn obura](https://github.com/hesbornomwandho)
  
- [Brenda Muthoni]()
+ [Brenda Muthoni](https:github.com/Sonibk)
  
- [clement Mlay]()
+ [clement Mlay](https:github.com/clementmlay)
 
 
 
