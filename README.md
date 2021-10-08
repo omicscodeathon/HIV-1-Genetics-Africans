@@ -21,13 +21,13 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
 ## Prerequisites
 + Involves generation of sequences from NCBI virus repository from different East Africa countries of HIV-Pol region.
  
- ``` conda install mafft ```
+ ``` conda install -c bioconda mafft ```
  
- ``` conda install iqtree ```
+ ``` conda install -c bioconda iqtree ```
  
- ``` conda install figtree ```
+ ``` conda install -c bioconda figtree ```
  
- ``` conda install aliview ```
+ ``` conda install  -c bioconda aliview ```
  
  ## Workflow
  ![Screenshot 2021-10-04 at 11 41 57](https://user-images.githubusercontent.com/72735085/136041950-9f66795b-65a5-4020-b9ac-7db38273a83e.png)
