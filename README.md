@@ -22,12 +22,15 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
 + Involves generation of HIV-Pol region sequences from NCBI virus repository from different Africa countries.
 
 + Download Miniconda for your specific OS to your home directory
-'''Linux: wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh'''
-'''Mac: curl https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh'''
+
+```Linux: wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh```
+
+```Mac: curl https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh```
 
 + Run:
-'''bash Miniconda3-latest-Linux-x86_64.sh'''
-'''bash Miniconda3-latest-MacOSX-x86_64.sh'''
+```bash Miniconda3-latest-Linux-x86_64.sh```
+
+```bash Miniconda3-latest-MacOSX-x86_64.sh```
 
 + install the following packages
  
