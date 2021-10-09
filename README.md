@@ -32,35 +32,29 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  ## Workflow
  ![Screenshot 2021-10-04 at 11 41 57](https://user-images.githubusercontent.com/72735085/136041950-9f66795b-65a5-4020-b9ac-7db38273a83e.png)
  
- ## Team members
- [Hesborn obura](https://github.com/hesbornomwandho)
- + Bioscience Research Center,Pwani University ,P.O Box 195-80108,Kilifi, Kenya
+ ## People/ Team
+ [Hesborn obura](https://github.com/hesbornomwandho), Bioscience Research Center,Pwani University ,P.O Box 195-80108,Kilifi, Kenya
  
  
- [Brenda Muthoni](https://github.com/Sonibk)
- + KEMRI Wellcome Trust Research Programme - Kilifi, Kenya
+ [Brenda Muthoni](https://github.com/Sonibk), KEMRI Wellcome Trust Research Programme - Kilifi, Kenya
  
 
- [clement Mlay](https://github.com/clementmlay)
-  + Bioscience Research Center,Pwani University ,P.O Box 195-80108, Kilifi, Kenya
+ [clement Mlay](https://github.com/clementmlay), Bioscience Research Center,Pwani University ,P.O Box 195-80108, Kilifi, Kenya
   
 
- [Lindani Moyo](https://github.com/lindanimoyo)
- + Department of Environmental Science and Health, National University of Science and Technology, Bulawayo, Zimbabwe
- + Stellenbosch University, South Africa
+ [Lindani Moyo](https://github.com/lindanimoyo), National University of Science and Technology, Zimbabwe & Stellenbosch University, South Africa
  
  
- [Kauthar Mwanamkuu Omar](https://github.com/Kauthar-Omar)
-  + Pwani University, Kilifi, Kenya.
+ [Kauthar Mwanamkuu Omar](https://github.com/Kauthar-Omar), Pwani University, Kilifi, Kenya.
+ 
   
  [Wilson Mudaki](https://github.com/totodingi)
  
- Erick Masunge Sinza
- + Tanzania Human Genetics Organization, P.O. Box 65001, Dar es Salaam, Tanzania
+ 
+ Erick Masunge Sinza, Tanzania Human Genetics Organization, P.O. Box 65001, Dar es Salaam, Tanzania
  
  
- Gladys Jerono Rotich
- + International Centre of Insect Physiology and Ecology (icipe), P.O. Box 30772-00100 Nairobi, Kenya
+ Gladys Jerono Rotich, International Centre of Insect Physiology and Ecology (icipe), P.O. Box 30772-00100 Nairobi, Kenya
 
 
 
