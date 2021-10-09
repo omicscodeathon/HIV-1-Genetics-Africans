@@ -51,16 +51,16 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  + Stellenbosch University, South Africa
  
  Kauthar Mwanamkuu Omar
- kauthyomar@gmail.com
- Pwani University, Kilifi, Kenya.
+ + kauthyomar@gmail.com
+ + Pwani University, Kilifi, Kenya.
  
  Erick Masunge Sinza
- ericksinza@gmail.com
- Tanzania Human Genetics Organization, P.O. Box 65001, Dar es Salaam, Tanzania
+ + ericksinza@gmail.com
+ + Tanzania Human Genetics Organization, P.O. Box 65001, Dar es Salaam, Tanzania
  
  Gladys Jerono Rotich
- gladysjerono86@gmail.com
- International Centre of Insect Physiology and Ecology (icipe), P.O. Box 30772-00100 Nairobi, Kenya
+ + gladysjerono86@gmail.com
+ + International Centre of Insect Physiology and Ecology (icipe), P.O. Box 30772-00100 Nairobi, Kenya
 
 
 
