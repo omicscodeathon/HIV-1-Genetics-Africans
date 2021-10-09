@@ -56,7 +56,7 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  [Erick Masunge Sinza](https://github.com/ErickSinza), Tanzania Human Genetics Organization, P.O. Box 65001, Dar es Salaam, Tanzania
  
  
- Gladys Jerono Rotich, International Centre of Insect Physiology and Ecology (icipe), P.O. Box 30772-00100 Nairobi, Kenya
+ [glado718](https://github.com/glado718), International Centre of Insect Physiology and Ecology (icipe), P.O. Box 30772-00100 Nairobi, Kenya
 
 [brendamuthonikamau](https://github.com/brendamuthonikamau), Pwani University, Kilifi Kenya.
 
