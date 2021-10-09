@@ -19,7 +19,17 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  + To investigate the prevalence of viral variants circulating in different Eastern  African countries  to better characterize the HIV-1 epidemic and epidemiology.
 
 ## Prerequisites and installations
-+ Involves generation of sequences from NCBI virus repository from different East Africa countries of HIV-Pol region.
++ Involves generation of HIV-Pol region sequences from NCBI virus repository from different Africa countries.
+
++ Download Miniconda for your specific OS to your home directory
+'''Linux: wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh'''
+'''Mac: curl https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh'''
+
++ Run:
+'''bash Miniconda3-latest-Linux-x86_64.sh'''
+'''bash Miniconda3-latest-MacOSX-x86_64.sh'''
+
++ install the following packages
  
  ``` conda install -c bioconda mafft ```
  
@@ -29,17 +39,17 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  
  ``` conda install  -c bioconda aliview ```
  
- ## Workflow
+ ## Genetic diversity Workflow
  ![Screenshot 2021-10-04 at 11 41 57](https://user-images.githubusercontent.com/72735085/136041950-9f66795b-65a5-4020-b9ac-7db38273a83e.png)
  
  ## People/ Team
- [Hesborn obura](https://github.com/hesbornomwandho), Bioscience Research Center,Pwani University ,P.O Box 195-80108,Kilifi, Kenya
+ [Hesborn obura](https://github.com/hesbornomwandho), Bioscience Research Center,Pwani University, P.O. Box 195-80108,Kilifi, Kenya
  
  
  [Brenda Muthoni](https://github.com/Sonibk), KEMRI Wellcome Trust Research Programme - Kilifi, Kenya
  
 
- [clement Mlay](https://github.com/clementmlay), Bioscience Research Center,Pwani University ,P.O Box 195-80108, Kilifi, Kenya
+ [clement Mlay](https://github.com/clementmlay), Bioscience Research Center,Pwani University, P.O. Box 195-80108, Kilifi, Kenya
   
 
  [Lindani Moyo](https://github.com/lindanimoyo), National University of Science and Technology, Zimbabwe & Stellenbosch University, South Africa
@@ -48,10 +58,10 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  [Kauthar Mwanamkuu Omar](https://github.com/Kauthar-Omar), Pwani University, Kilifi, Kenya.
  
   
- [Wilson Mudaki](https://github.com/totodingi)
+ [Wilson Mudaki](https://github.com/totodingi), Bioscience Research Center,Pwani University ,P.O. Box 195-80108,Kilifi, Kenya
  
  
- Erick Masunge Sinza, Tanzania Human Genetics Organization, P.O. Box 65001, Dar es Salaam, Tanzania
+ [Erick Masunge Sinza](https://github.com/ErickSinza), Tanzania Human Genetics Organization, P.O. Box 65001, Dar es Salaam, Tanzania
  
  
  Gladys Jerono Rotich, International Centre of Insect Physiology and Ecology (icipe), P.O. Box 30772-00100 Nairobi, Kenya
