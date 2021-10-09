@@ -36,21 +36,27 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  [Hesborn obura](https://github.com/hesbornomwandho)
  + Bioscience Research Center,Pwani University ,P.O Box 195-80108,Kilifi, Kenya
  
+ 
  [Brenda Muthoni](https://github.com/Sonibk)
  + KEMRI Wellcome Trust Research Programme - Kilifi, Kenya
+ 
 
  [clement Mlay](https://github.com/clementmlay)
   + Bioscience Research Center,Pwani University ,P.O Box 195-80108, Kilifi, Kenya
+  
 
  [Lindani Moyo](https://github.com/lindanimoyo)
  + Department of Environmental Science and Health, National University of Science and Technology, Bulawayo, Zimbabwe
  + Stellenbosch University, South Africa
  
+ 
  Kauthar Mwanamkuu Omar
   + Pwani University, Kilifi, Kenya.
+  
  
  Erick Masunge Sinza
  + Tanzania Human Genetics Organization, P.O. Box 65001, Dar es Salaam, Tanzania
+ 
  
  Gladys Jerono Rotich
  + International Centre of Insect Physiology and Ecology (icipe), P.O. Box 30772-00100 Nairobi, Kenya
