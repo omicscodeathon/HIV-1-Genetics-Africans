@@ -6,16 +6,6 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
 + The existence of genetic variation in HIV-1 is caused by the error-prone reverse transcriptase enzyme, recombination events during replication of the virus, HIV-1 rapid turnover in the body and immune system selective pressures (Désiré et al., 2018). 
 + HIV-1 genetic variability is the major obstacle in the treatment of HIV and development of effective drugs. This variability occurs rapidly with some variants believed to be more virulent and resistant to different antiretroviral drugs.
 
-
- ## Significance of study
- + This   study is aimed at identifying the various HIV-1 subtypes circulating in East Africa region and to provide information on the genetic diversity of HIV in this region. These findings will also provide useful insights to which is critical for assessment of the effectiveness of treatment, intervention strategies and informing public health policy.
-
-## Aim
-+ The proposed research is aimed at in silico  screening of HIV-1  pol protein pol(gene) sequences from NCBI virus repository from Eastern African countries and genetic characterization using computational approaches.
-
-## Objective
- + To investigate the prevalence of viral variants circulating in different Eastern  African countries  to better characterize the HIV-1 epidemic and epidemiology.
-
 ## Prerequisites and installations
 + Involves generation of HIV-Pol region sequences from NCBI virus repository from different Africa countries.
 
@@ -68,6 +58,6 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  
  Gladys Jerono Rotich, International Centre of Insect Physiology and Ecology (icipe), P.O. Box 30772-00100 Nairobi, Kenya
 
-
+[brendamuthonikamau](https://github.com/brendamuthonikamau), Pwani University, Kilifi Kenya.
 
 
