@@ -53,6 +53,7 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  [Kauthar Mwanamkuu Omar](https://github.com/Kauthar-Omar)
   + Pwani University, Kilifi, Kenya.
   
+ [Wilson Mudaki](https://github.com/totodingi)
  
  Erick Masunge Sinza
  + Tanzania Human Genetics Organization, P.O. Box 65001, Dar es Salaam, Tanzania
