@@ -34,7 +34,7 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
 
 ```Mac: bash Miniconda3-latest-MacOSX-x86_64.sh```
 
-+ install the following packages
++ Install the following packages
  
  ``` conda install -c bioconda mafft ```
  
