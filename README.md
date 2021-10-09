@@ -4,9 +4,9 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
 ## Background
  + HIV is categorized into HIV type 1 (HIV-1) and HIV type 2 (HIV-2) on the basis of differences in the viral antigens and genetic characteristics (Seitz, 2016). HIV-1 is more virulent and the major cause for the global AIDS pandemic (MA et al., 2017) while HIV-2 is less virulent and less common. 
 + The existence of genetic variation in HIV-1 is caused by the error-prone reverse transcriptase enzyme, recombination events during replication of the virus, HIV-1 rapid turnover in the body and immune system selective pressures (Désiré et al., 2018). 
-+ HIV-1 genetic variability is the major obstacle in the treatment of HIV and development of effective drugs. This variability occurs rapidly with some variants believed to be more virulent and resistant to different antiretroviral drugs.
++ HIV-1 genetic variability is the major obstacle in the treatment of HIV and development of effective drugs. This variability occurs rapidly with some variants believed to be more virulent and resistant to different antiretroviral drugs. It is therefore pertinent to establish the genetic diversity of HIV-1.
 
-## Prerequisites and installations
+## Prerequisites, software and installations
 + Involves generation of HIV-Pol region sequences from NCBI virus repository from different Africa countries.
 
 + Download Miniconda for your specific OS to your home directory
@@ -41,7 +41,7 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  [Brenda Muthoni](https://github.com/Sonibk), KEMRI Wellcome Trust Research Programme - Kilifi, Kenya
  
 
- [clement Mlay](https://github.com/clementmlay), Bioscience Research Center,Pwani University, P.O. Box 195-80108, Kilifi, Kenya
+ [Clement Mlay](https://github.com/clementmlay), Bioscience Research Center,Pwani University, P.O. Box 195-80108, Kilifi, Kenya
   
 
  [Lindani Moyo](https://github.com/lindanimoyo), National University of Science and Technology, Zimbabwe & Stellenbosch University, South Africa
@@ -58,6 +58,6 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  
  [Gladys Rotich](https://github.com/glado718), International Centre of Insect Physiology and Ecology (icipe), P.O. Box 30772-00100 Nairobi, Kenya
 
-[brendamuthonikamau](https://github.com/brendamuthonikamau), Pwani University, Kilifi Kenya, P.O. Box 195-80108, Kilifi, Kenya
+[Brenda Muthonikamau](https://github.com/brendamuthonikamau), Pwani University, Kilifi Kenya, P.O. Box 195-80108, Kilifi, Kenya
 
 
