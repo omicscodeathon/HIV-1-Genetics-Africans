@@ -28,6 +28,7 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
 ```Mac: curl https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh```
 
 + Run:
+
 ```bash Miniconda3-latest-Linux-x86_64.sh```
 
 ```bash Miniconda3-latest-MacOSX-x86_64.sh```
