@@ -50,7 +50,7 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  + Stellenbosch University, South Africa
  
  
- Kauthar Mwanamkuu Omar
+ [Kauthar Mwanamkuu Omar](https://github.com/Kauthar-Omar)
   + Pwani University, Kilifi, Kenya.
   
  
