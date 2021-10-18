@@ -10,7 +10,14 @@ logging.basicConfig(level=logging.INFO,
                     )
 
 
-def edit_fasta(file, download_type):
+def edit_fasta(file, download_type='script'):
+    """
+    A script to edit and clean the downloaded fasta file
+
+    :param file:
+    :param download_type:
+    :return:
+    """
     with open(f'edited_sequence.fasta', 'w') as fasta_edit:
         with open(file, 'r') as fasta:
             for line in fasta.readlines():
@@ -18,8 +25,9 @@ def edit_fasta(file, download_type):
                     if download_type == 'manual':
                         fasta_edit.write(line.replace(" |", '_'))
                     elif download_type == 'script':
-                        split_line = line.split(" ")
-                        fasta_edit.write(f'{split_line[0]}_{split_line[5]}\n')
+                        split_line = line.split("from ")
+                        print(f'{split_line[0].split(" ")[0]}_{split_line[1].split(" ")[0].strip(",")}')
+                        fasta_edit.write(f'{split_line[0].split(" ")[0]}_{split_line[1].split(" ")[0].strip(",")}\n')
                 else:
                     fasta_edit.write(line)
 

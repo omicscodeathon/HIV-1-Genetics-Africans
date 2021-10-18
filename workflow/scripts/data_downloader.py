@@ -10,11 +10,19 @@ logging.basicConfig(level=logging.INFO,
                     )
 
 
-def query_ncbi(accessions):
+def query_ncbi(accessions, webenv=''):
+    """
+    A script to download sequences from NCBI
+
+    :param accessions:
+    :param webenv:
+    :return:
+    """
     ncbi_baseurl = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 
     # declare default parameters
-    params = {'db': 'nuccore', 'id': accessions, 'retmode': 'text', 'rettype': 'fasta'}
+    params = {'db': 'nuccore', 'id': accessions, 'retmode': 'text', 'rettype': 'fasta',
+              'usehistory': 'y', 'WebEnv': webenv}
 
     # Send a request to the ncbi
     try:
