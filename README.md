@@ -57,4 +57,5 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
 
 [Brenda Muthoni kamau](https://github.com/brendamuthonikamau), Pwani University, Kilifi Kenya, P.O. Box 195-80108, Kilifi, Kenya
 
+[Brenda Muthoni Karumbo](https://github.com/sonibk), KEMRI Wellcome Trust Research Programme, Kilifi, Kenya
 
