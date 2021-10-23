@@ -32,7 +32,9 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  ``` conda install  -c bioconda aliview ```
  
  ## Genetic diversity Workflow
- ![Screenshot 2021-10-10 at 15 31 07](https://user-images.githubusercontent.com/72735085/136695918-948fc3d1-85b0-4f7f-bc0b-b6a33b73e2eb.png)
+
+ ![Screenshot from 2021-10-23 12-14-20](https://user-images.githubusercontent.com/57720624/138550517-77702bb9-b968-402d-90a2-4034dd7ef494.png)
+
 
  ## People/ Team
  [Hesborn Obura](https://github.com/hesbornomwandho), Bioscience Research Center,Pwani University, P.O. Box 195-80108, Kilifi, Kenya
