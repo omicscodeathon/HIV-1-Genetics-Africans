@@ -7,7 +7,7 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
 + HIV-1 genetic variability is the major obstacle in the treatment of HIV and development of effective drugs. This variability occurs rapidly with some variants believed to be more virulent and resistant to different antiretroviral drugs. It is therefore pertinent to establish the genetic diversity of HIV-1.
 
 ## Prerequisites, software and installations
-+ Involves generation of HIV-Pol region sequences from NCBI virus repository from different Africa countries.
++ Involves the retrieval, from NCBI and Los Alamos databases, of HIV full sequences  from different Africa countries.
 
 + Download Miniconda for your specific OS to your home directory
 
@@ -57,7 +57,7 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
  
  [Gladys Rotich](https://github.com/glado718), International Centre of Insect Physiology and Ecology (icipe), P.O. Box 30772-00100 Nairobi, Kenya
 
-[Brenda Muthoni kamau](https://github.com/brendamuthonikamau), Pwani University, Kilifi Kenya, P.O. Box 195-80108, Kilifi, Kenya
+[Brenda Muthoni Kamau](https://github.com/brendamuthonikamau), Pwani University, Kilifi Kenya, P.O. Box 195-80108, Kilifi, Kenya
 
 [Brenda Muthoni Karumbo](https://github.com/sonibk), KEMRI Wellcome Trust Research Programme, Kilifi, Kenya
 
