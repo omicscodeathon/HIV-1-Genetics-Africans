@@ -7,7 +7,7 @@ Genetic Diversity of Strains of HIV-1 circulating in African Populations
 + HIV-1 genetic variability is the major obstacle in the treatment of HIV and development of effective drugs. This variability occurs rapidly with some variants believed to be more virulent and resistant to different antiretroviral drugs. It is therefore pertinent to establish the genetic diversity of HIV-1.
 
 ## Prerequisites, software and installations
-+ Involves the retrieval, from NCBI and Los Alamos databases, of HIV full sequences  from different Africa countries.
++ Involves the retrieval, from NCBI and Los Alamos databases, of HIV full sequences  from different African countries.
 
 + Download Miniconda for your specific OS to your home directory
 
